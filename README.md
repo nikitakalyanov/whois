@@ -17,4 +17,4 @@ For a list of domains (in a .txt file):
 
 ## Notes
 
-Substitutes all '\' and '.' in URLs with '_' to avoid shell interpretation errors. 
+Substitutes all '\\' and '.' in URLs with '_' to avoid shell interpretation errors. 
