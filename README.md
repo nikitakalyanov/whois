@@ -1,6 +1,6 @@
 # check_whois.sh
 
-A simple yet powerful bash-script for checking whois for a domain. Uses https://www.whois.com/whois/ and saves its response as HTML-file in `results_dir`.
+A simple yet powerful bash-script for checking whois for a domain. Uses https://www.whois.com/whois/ and saves its response as an HTML-file in `results_dir`.
 
 ## Usage
 
